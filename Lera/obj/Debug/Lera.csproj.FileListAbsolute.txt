@@ -1,0 +1,10 @@
+C:\Users\dimai\source\repos\Lera\Lera\bin\Debug\Lera.exe.config
+C:\Users\dimai\source\repos\Lera\Lera\bin\Debug\Lera.exe
+C:\Users\dimai\source\repos\Lera\Lera\bin\Debug\Lera.pdb
+C:\Users\dimai\source\repos\Lera\Lera\obj\Debug\Lera.csproj.AssemblyReference.cache
+C:\Users\dimai\source\repos\Lera\Lera\obj\Debug\Lera.Form1.resources
+C:\Users\dimai\source\repos\Lera\Lera\obj\Debug\Lera.Properties.Resources.resources
+C:\Users\dimai\source\repos\Lera\Lera\obj\Debug\Lera.csproj.GenerateResource.cache
+C:\Users\dimai\source\repos\Lera\Lera\obj\Debug\Lera.csproj.CoreCompileInputs.cache
+C:\Users\dimai\source\repos\Lera\Lera\obj\Debug\Lera.exe
+C:\Users\dimai\source\repos\Lera\Lera\obj\Debug\Lera.pdb
